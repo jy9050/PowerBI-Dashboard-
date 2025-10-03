@@ -35,36 +35,4 @@ Each project highlights different business scenarios and KPIs using Power BI fea
 **Preview:**  
 ![YouTube Performance Dashboard](images/youtube_performance.png)
 
----
-### 4. Bike Analysis 2024 Dashboard (Google Data Analytics Capstone)
-**Source:** Google Data Analytics Professional Certificate  
-**Objective:** Analyze bike-share data (casual vs. member riders)  
-**Skills:** Data Cleaning, Aggregations, Filters, Visualizations  
-**File:** [Bike_Analysis_2024.pbix](./Bike_Analysis_2024.pbix)  
 
-**Preview:**  
-![Bike Analysis Dashboard](images/bike_analysis.png)
-
----
-
-### 5. Capstone Dashboard (Google Data Analytics Final Project)
-**Source:** Google Data Analytics Professional Certificate  
-**Objective:** End-to-end case study (data cleaning → SQL queries → visualization in Power BI)  
-**Skills:** Data Preparation, Modeling, Interactive Visuals  
-**File:** [Capstone.pbix](./Capstone.pbix)  
-
-**Preview:**  
-![Capstone Dashboard](images/capstone.png)
-
-
-
-
-
-
-
-
-
-
-
-
-I Desktop.
