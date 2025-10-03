@@ -27,4 +27,4 @@ This repository contains my Power BI dashboards for different case studies and b
 - **Skills:** Interactive Charts, Filters, Measures  
 - **File:** [sales dashboard.pbix](sales%20dashboard.pbix)  
 - **Preview:**  
-  ![Sales Dashboard](zomato_dashboard.png)
+  ![Sales Dashboard](sales_dashboard.png)
