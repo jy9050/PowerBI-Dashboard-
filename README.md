@@ -34,5 +34,8 @@ Each project highlights different business scenarios and KPIs using Power BI fea
 
 **Preview:**  
 ![YouTube Performance Dashboard](images/youtube_performance.png)
+⚠️ **Note:** Power BI files (.pbix) cannot be previewed directly on GitHub.  
+Please download the file and open it in Microsoft Power BI Desktop.
+
 
 
