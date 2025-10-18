@@ -2,7 +2,7 @@
 
 This repository contains my Power BI dashboards for different case studies and business analyses.  
 
----## 📑 Table of Contents
+- 📑 Table of Contents
 1. [Amazon Sales Dashboard](#1-amazon-sales-dashboard)
 2. [YouTube Channel Performance Dashboard](#2-youtube-channel-performance-dashboard)
 3. [Sales Dashboard](#3-sales-dashboard)
